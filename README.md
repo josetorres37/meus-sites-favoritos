@@ -19,7 +19,7 @@ Projeto desenvolvido como atividade prática da **Agenda 12 - Desenvolvimento de
 
 ## 📂 Estrutura do Projeto
 ```text
-jose_Ag12_DS_I/
+meus-sites-favoritos/
 │
 ├── imagens/                # Pasta contendo os logotipos locais
 │   ├── webdev.png
